@@ -1,2 +1,2 @@
 # bikeshare
-Implementation of a neural network model to predict bike share users based on historic data.
+Implementation of a neural network to predict number of bike share users using historic data
